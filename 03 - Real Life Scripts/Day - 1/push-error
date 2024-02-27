@@ -1,0 +1,30 @@
+Feb 23 12:58:36 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Feb 23 12:58:36 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Feb 23 12:58:36 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Feb 23 12:58:41 Shounak-1998 mcelog[725]: mcelog: ERROR: AMD Processor family 23: mcelog does not support this processor.  Please use the edac_mce_amd module instead.
+Feb 23 12:58:42 Shounak-1998 alsactl[765]: alsa-lib main.c:1554:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+Feb 23 12:58:46 Shounak-1998 wireplumber[1616]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NameHasNoOwner
+Feb 23 12:58:47 Shounak-1998 gsd-sharing[1672]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 23 12:58:47 Shounak-1998 gsd-sharing[1672]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 23 12:58:47 Shounak-1998 gsd-sharing[1672]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 23 12:58:48 Shounak-1998 gnome-shell[1409]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Feb 23 12:58:49 Shounak-1998 org.gnome.Shell.desktop[1906]: Errors from xkbcomp are not fatal to the X server
+Feb 26 10:32:31 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Feb 26 10:32:31 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Feb 26 10:32:31 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Feb 26 10:32:39 Shounak-1998 mcelog[725]: mcelog: ERROR: AMD Processor family 23: mcelog does not support this processor.  Please use the edac_mce_amd module instead.
+Feb 26 10:32:40 Shounak-1998 alsactl[766]: alsa-lib main.c:1554:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+Feb 26 10:32:48 Shounak-1998 wireplumber[1543]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NameHasNoOwner
+Feb 26 10:32:49 Shounak-1998 gsd-sharing[1603]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 26 10:32:49 Shounak-1998 gsd-sharing[1603]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 26 10:32:49 Shounak-1998 gsd-sharing[1603]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Feb 26 10:32:50 Shounak-1998 gnome-shell[1316]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Feb 26 10:32:52 Shounak-1998 org.gnome.Shell.desktop[1840]: Errors from xkbcomp are not fatal to the X server
+Feb 27 13:08:13 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Feb 27 13:08:13 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Feb 27 13:08:13 Shounak-1998 kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Feb 27 13:08:19 Shounak-1998 mcelog[726]: mcelog: ERROR: AMD Processor family 23: mcelog does not support this processor.  Please use the edac_mce_amd module instead.
+Feb 27 13:08:19 Shounak-1998 alsactl[766]: alsa-lib main.c:1554:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+Feb 27 13:08:24 Shounak-1998 wireplumber[1620]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NameHasNoOwner
+Feb 27 13:08:19 Shounak-1998 gnome-shell[1415]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Feb 27 13:08:20 Shounak-1998 org.gnome.Shell.desktop[1909]: Errors from xkbcomp are not fatal to the X server
